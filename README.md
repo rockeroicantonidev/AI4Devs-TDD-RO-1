@@ -93,7 +93,7 @@ cd ../backend
 npm install
 ```
 3. Build the back end server:
-```
+```sh
 cd backend
 npm run build
 ````
@@ -108,7 +108,7 @@ cd frontend
 npm run build
 ```
 6. Start the frontend server:
-```
+```sh
 cd frontend
 npm start
 ```
@@ -298,7 +298,7 @@ cd frontend
 npm run build
 ```
 6. Inicia el servidor frontend:
-```
+```sh
 cd frontend
 npm start
 ```
